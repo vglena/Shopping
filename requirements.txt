@@ -1,0 +1,3 @@
+Python 3.8 or higher
+pandas – for CSV data handling
+scikit-learn – for K-Nearest Neighbor classifier
